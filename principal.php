@@ -24,7 +24,7 @@ echo "A soma é igual a: " . somar($v1,$v2);
 
 
 function somar ( $p1, $p2){
-
+//teste
 return $p1+$p2;
 
 
